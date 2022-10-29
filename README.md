@@ -5,3 +5,5 @@ vue ts vite 模板
 - vue 3.2.41
 - typescript 4.6.4
 - vue-router 4.1.6
+- axios 1.1.3
+- jssha 3.3.0
