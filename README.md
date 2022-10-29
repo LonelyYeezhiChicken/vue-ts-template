@@ -8,3 +8,4 @@ vue ts vite 模板
 - axios 1.1.3
 - jssha 3.3.0
 - pinia 2.0.23
+- tailwindcss 3.2.1
