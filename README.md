@@ -7,3 +7,4 @@ vue ts vite 模板
 - vue-router 4.1.6
 - axios 1.1.3
 - jssha 3.3.0
+- pinia 2.0.23
